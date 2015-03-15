@@ -6,4 +6,4 @@ usage:
 ~ ./.mybuttsmells.sh
 ```
 
-this file will make your computer say its butt smells until you tell it to stop
+this file will make your computer say its butt smells until you wipe it
