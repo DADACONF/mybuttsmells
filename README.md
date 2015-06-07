@@ -1,9 +1,9 @@
-# my butt smells
+# olfactory expressionism
 
 usage:
 
 ```
-~ ./.mybuttsmells.sh
+~ ./.dewsmellsfresh.sh
 ```
 
-this file will make your computer say its butt smells until you wipe it
+this file will make your computer tell you how much it loves sparkling morning dew
