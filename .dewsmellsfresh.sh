@@ -1,2 +1,2 @@
-say dew smells fresh
+karl says dew smells fresh
 ./.dewsmellsfresh.sh
